@@ -1,0 +1,14 @@
+layout_spectrum: 0.34225617488846183
+typography_spectrum: 0.9160766296554357
+color:
+  brandStrength: 0.6812158110551536
+  lightness: 0.5292384990025312
+  saturation: 0.309611523989588
+  rhythmicContrast: 0.24857042077928782
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: nodestone
